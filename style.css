@@ -1,0 +1,13 @@
+.sign-up {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+#header {
+    width: 300px;
+}
+input {
+    width: 200px;
+    border-radius: 10px;
+}
